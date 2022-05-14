@@ -6,5 +6,3 @@ This takes ages to update so it was last updated like mid march, I'll go through
 
 ## Download
 I advise HEAVILY against a zip, this collection is just over 2gb so it'll take ages
-# wallpapers
-# wallpapers
