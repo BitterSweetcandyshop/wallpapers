@@ -4,14 +4,20 @@ enjoy :3
 
 This takes ages to update so it was last updated like mid march, I'll go through again later once I get a good playlist.
 
-## Download
-I advise HEAVILY against a zip, this collection is just over 2gb so it'll take ages
+## Helping
+anything in the unixporn\_wallpapers folder is open to be organized
+- delete from unixporn\_wallpapers after moving
+- put into whatever folders you see fit in unix\_sorted (dupes okay as long as it's not the same directory)
+- accepted folders "types"?: color(s), color schemes, dark, light
 
 ## Why isn't it sorted nerd? at least alpha-
-COPE. idgaf, I'll make folders sorting this all later not a priority at all tbh cope with it.
+wip, cope
 
-## Add my wallpaper!
-fineeee dm me
-- (Discord): BitterSweet#1337
-- (Revolt): @BitterSweet
-- (Reddit): u/BitterSweetcandyshop
+## Add my wallpaper! (or suggest)
+fineeee dm me <3
+> if the wallaper is in low res, provide the artist, I will go out of my way to aquire an og copy if fessable
+- (Discord): BitterSweet#1337 (best)
+- (Revolt): @BitterSweetcandyshop (d tier)
+- (Divolt): @BitterSweet (c teir)
+- (Reddit): u/BitterSweetcandyshop (also good)
+- (matrix): bittersweetcandyshop (meh)
