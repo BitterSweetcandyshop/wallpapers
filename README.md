@@ -8,7 +8,8 @@ This takes ages to update so it was last updated like mid march, I'll go through
 anything in the unixporn\_wallpapers folder is open to be organized
 - delete from unixporn\_wallpapers after moving
 - put into whatever folders you see fit in unix\_sorted (dupes okay as long as it's not the same directory)
-- accepted folders "types"?: color(s), color schemes, dark, light
+- accepted folders "types"?: color(s), color schemes, dark, light, just ask me
+- don't rename files!
 
 ## Why isn't it sorted nerd? at least alpha-
 wip, cope
