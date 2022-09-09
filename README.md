@@ -22,3 +22,4 @@ fineeee dm me <3
 - (Divolt): @BitterSweet (c teir)
 - (Reddit): u/BitterSweetcandyshop (also good)
 - (matrix): bittersweetcandyshop (meh)
+- (Telegram): BitterSweetcandyshop
